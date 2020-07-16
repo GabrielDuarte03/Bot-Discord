@@ -1,0 +1,17 @@
+{
+  "name": "dididibot",
+  "version": "1.0.0",
+  "description": "Bot só para leao",
+  "main": "index.js",
+
+  "scripts": {  
+  "start": "node ."
+  },
+  "author": "bieltop",
+  "license": "ISC",
+  
+  "dependencies":{
+      "discord.js":"12.2.0"
+  }
+  
+}
