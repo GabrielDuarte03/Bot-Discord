@@ -137,7 +137,7 @@ bot.on("message", async message => {
 
 });
 
-bot.login('NzMwMzg2MTE4ODM0Mzg4OTky.XwXYhw.SWTiiS4WDQ2waf-QAMu8fC-84a4');
+bot.login('XXXXXXXXXXXXXXx');
 
 
 
